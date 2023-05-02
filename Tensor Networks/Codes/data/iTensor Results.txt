@@ -1,0 +1,13 @@
+# #itensor results
+# L = 2: After sweep 100 energy=-0.5  maxlinkdim=2 maxerr=0.00E+00 time=0.001
+# L = 3: After sweep 100 energy=-0.914213562373095  maxlinkdim=2 maxerr=7.77E-16 time=0.006
+# L = 4: After sweep 100 energy=-1.2360679774997896  maxlinkdim=4 maxerr=3.09E-16 time=0.012
+# L = 5: After sweep 100 energy=-1.732050807568878  maxlinkdim=4 maxerr=1.74E-16 time=0.004
+# L = 6: After sweep 100 energy=-2.048917339522305  maxlinkdim=4 maxerr=1.70E-16 time=0.006
+# L = 7: After sweep 100 energy=-2.5273394921258476  maxlinkdim=8 maxerr=9.52E-17 time=0.021
+# L = 8: After sweep 100 energy=-2.911474127809772  maxlinkdim=8 maxerr=8.91E-16 time=0.039
+# L = 9: After sweep 100 energy=-3.3137515134882376  maxlinkdim=14 maxerr=7.93E-11 time=0.065
+# L = 10: After sweep 100 energy=-3.742044505912703  maxlinkdim=15 maxerr=6.29E-11 time=0.079
+# L = 11: After sweep 100 energy=-4.0957541110657685  maxlinkdim=21 maxerr=7.02E-11 time=0.035
+# L= 12: After sweep 100 energy=-4.555156448620361  maxlinkdim=22 maxerr=9.10E-11 time=0.111
+# L = 13: After sweep 100 energy=-4.930203605684112  maxlinkdim=22 maxerr=4.32E-11 time=0.114
